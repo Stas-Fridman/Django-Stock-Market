@@ -36,3 +36,16 @@ Open the Terminal in Right Directory <code>/stock/</code> containing <code>manag
 
 <h2>Home Page</h2>
 
+![home_page](https://user-images.githubusercontent.com/70663809/98426648-4d622300-20a2-11eb-8c17-e2156df20cbc.jpg)
+
+<h2>Add Stock/Remove Stock</h2>
+
+![add_stock](https://user-images.githubusercontent.com/70663809/98426699-89958380-20a2-11eb-802a-76f85ecb450a.jpg)
+
+<h2>Advanced Real-Time Chart</h2>
+
+![Advanced Real-Time Chart](https://user-images.githubusercontent.com/70663809/98426728-b47fd780-20a2-11eb-865c-eee92a0fdf7a.jpg)
+
+<h2>About</h2>
+
+![about](https://user-images.githubusercontent.com/70663809/98426743-bfd30300-20a2-11eb-9271-67c54e3b5844.jpg)
